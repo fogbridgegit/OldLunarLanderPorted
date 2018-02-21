@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/WWI-Samples-LunarModule/Scenes/FBWW_LunarModule5Test_Main.unity
+  isLoaded: 1
+  isActive: 1

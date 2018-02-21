@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235af7010dfacab48a6425d9dba6bd8f, type: 3}
+  m_Name: LunarButtonSoundProfile
+  m_EditorClassIdentifier: 
+  ButtonCanceled: {fileID: 0}
+  ButtonHeld: {fileID: 8300000, guid: ddfbc008461e5bc49870e6387804279d, type: 3}
+  ButtonPressed: {fileID: 8300000, guid: 6a5f12f9d92f5b045a3a7f512dad6fba, type: 3}
+  ButtonReleased: {fileID: 8300000, guid: 6a5f12f9d92f5b045a3a7f512dad6fba, type: 3}
+  ButtonObservation: {fileID: 0}
+  ButtonObservationTargeted: {fileID: 8300000, guid: e6723cce7619dad499a97081f3a6c201,
+    type: 3}
+  ButtonTargeted: {fileID: 8300000, guid: e6723cce7619dad499a97081f3a6c201, type: 3}
+  ButtonCanceledVolume: 1
+  ButtonHeldVolume: 1
+  ButtonPressedVolume: 1
+  ButtonReleasedVolume: 1
+  ButtonObservationVolume: 1
+  ButtonObservationTargetedVolume: 1
+  ButtonTargetedVolume: 1
